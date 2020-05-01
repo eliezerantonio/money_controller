@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303597067970",
+    "firebase_url": "https://meu-kumbu-8e26a.firebaseio.com",
+    "project_id": "meu-kumbu-8e26a",
+    "storage_bucket": "meu-kumbu-8e26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303597067970:android:d53841e2241c4a3ae5a55b",
+        "android_client_info": {
+          "package_name": "tech.eliezer.meukumbu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303597067970-83vvf3mom6ks12h5lruvucs75v9c8siq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.eliezer.meukumbu",
+            "certificate_hash": "a3629c107f3b7296f833eeacda940972451e6810"
+          }
+        },
+        {
+          "client_id": "303597067970-9b33478cmgccvcojbtla0nv76qk7uevt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiyHDEKFboSA1N7OQV9J8h5D_eTDGN1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303597067970-9b33478cmgccvcojbtla0nv76qk7uevt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

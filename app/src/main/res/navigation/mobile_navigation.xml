@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_perfil"
+    tools:ignore="UnusedNavigation">
+
+
+    <fragment
+        android:id="@+id/nav_contato"
+        android:name="tech.eliezer.meukumbu.fragment.ContactoFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:label="Contacto"
+        app:defaultNavHost="true"
+        tools:layout="@layout/fragment_contacto" />
+
+
+</navigation>

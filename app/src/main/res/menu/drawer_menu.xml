@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_principal"
+            android:icon="@drawable/ic_principal_cinza_24dp"
+            android:title="Principal" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_pessoa_branco_24dp"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/nav_movimento"
+            android:icon="@drawable/ic_movimentacao_branco_24dp"
+            android:title="Movimentos" />
+
+
+    </group>
+
+    <item android:title="Comunicação">
+        <menu>
+            <item
+                android:id="@+id/nav_contato"
+                android:icon="@drawable/ic_contato_branco_24dp"
+                android:title="Contacto" />
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/ic_sobre_branco_24dp"
+                android:title="Sobre" />
+        </menu>
+    </item>
+
+</menu>
