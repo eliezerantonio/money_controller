@@ -2,7 +2,6 @@
 
 
 
-![](https://github.com/eliezerantonio/money_controller/blob/master/Screenshot_1588341357.png),![](https://github.com/eliezerantonio/money_controller/blob/master/Screenshot_1588341353.png)
 
 
  <img width="250px"  src="https://github.com/eliezerantonio/money_controller/blob/master/Screenshot_1588341357.png"> | <img width="250px"  src="https://github.com/eliezerantonio/money_controller/blob/master/Screenshot_1588341353.png"> 
